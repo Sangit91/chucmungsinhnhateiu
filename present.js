@@ -1,8 +1,8 @@
 
 
 var to = nameGirl;
-var gift_url = 'https://www.facebook.com/profile.php?id=100005718317766';
-var gift_image_url = 'hot-girl2.png';
+var gift_url = 'https://www.facebook.com/ni.hoang.3133719';
+var gift_image_url = 'hot-girl2.jpg';
 
 var nametag = document.getElementById("nametag");
 var present = document.getElementById("present");
